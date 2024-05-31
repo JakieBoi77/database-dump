@@ -1,4 +1,5 @@
 # Database Dump
 
 These files are PostgreSQL database dumps for the freeCodeCamp Relational Database certification.
-These databases can be rebuilt by using ```psql -U postgres < database_dump_file.sql```.
+
+These databases can be rebuilt by using ```psql -U postgres < database_dump_file.sql``` in a bash terminal where the ```.sql``` file is located.
